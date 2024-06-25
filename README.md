@@ -33,17 +33,12 @@ The survey was implemented as:
   [![Introduction](https://img.youtube.com/vi/jTF7pNGp1eA/0.jpg)](https://www.youtube.com/watch?v=jTF7pNGp1eA)
 
 ### Alabama 
-- Background (00:00:36)
+- [Background](https://www.youtube.com/watch?v=lHW2DuJXehs&ab_channel=GulfOysterSurvey) (00:00:36)
+- [Alabama: Certain High Scenario](https://www.youtube.com/watch?v=ZbcA_mN249U&t=1s&ab_channel=GulfOysterSurvey) (00:01:15)
+- [Alabama: Certain Low Scenario](https://www.youtube.com/watch?v=JWVBbBevjpU&ab_channel=GulfOysterSurvey) (0:01:13)
 
-  [![Introduction](https://img.youtube.com/vi/lHW2DuJXehs/0.jpg)](https://www.youtube.com/watch?v=lHW2DuJXehs)
+### Florida
 
-- Alabama: Certain High Scenario (00:01:15)
-
-  [![Introduction](https://img.youtube.com/vi/ZbcA_mN249U/0.jpg)](https://www.youtube.com/watch?v=ZbcA_mN249U&t=1s)
-
-- Alabama: Certain Low Scenario (0:01:13)
-
-  [![Introduction](https://img.youtube.com/vi/JWVBbBevjpU/0.jpg)](https://www.youtube.com/watch?v=JWVBbBevjpU)
 
 ## Modify the contents
 
