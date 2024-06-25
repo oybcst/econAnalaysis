@@ -1,4 +1,4 @@
-# Template: Interactive Notebook in R 
+# econAnalysis: Economic Analysis of Ecosystem Services and Natural Capital 
 
 ## About the Template
 This is a template for creating a Jupyter Notebook in R, originally created for NOAA RESTORE's:
