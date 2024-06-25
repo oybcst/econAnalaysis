@@ -22,9 +22,8 @@ This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcS
 
 ## Survey
 Use the following for your citation.
-```
-Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, Marine Resource Economics, forthcoming.
-```
+
+Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, *Marine Resource Economics*, forthcoming.
 
 Choose the Owner
 - If your project is NOAA RESTORE, please change **Owner** to **OyBcSt**.  
