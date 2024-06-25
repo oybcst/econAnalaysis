@@ -23,10 +23,6 @@ This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcS
 ## Survey
 Starting from the landing page of this repo, click the green button `Use this template` then choose `Create a new respository`.
 
-
-https://github.com/oybcst/econAnalysis/assets/54961288/55c8cdec-d40c-4cd9-afad-e4222e1f5918
-
-
 Choose the Owner
 - If your project is NOAA RESTORE, please change **Owner** to **OyBcSt**.  
 - If you don't see OyBcSt as an option, [contact Lisa](mailto:lllowe@ncsu.edu) to be added as a collaborator.  
