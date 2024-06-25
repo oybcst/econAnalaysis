@@ -21,7 +21,10 @@ This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcS
 # Ecosystem Services Valuation
 
 ## Survey
-Starting from the landing page of this repo, click the green button `Use this template` then choose `Create a new respository`.
+Use the following for your citation.
+```
+Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, Marine Resource Economics, forthcoming.
+```
 
 Choose the Owner
 - If your project is NOAA RESTORE, please change **Owner** to **OyBcSt**.  
