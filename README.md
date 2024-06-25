@@ -18,9 +18,9 @@ This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcS
 
 **NOTE**: Binder takes a very long time to spin up for the first time when using R.  It should be faster the next time, if the image is still cached.
 
-# Instructions
+# Ecosystem Services Valuation
 
-## Create a new repo from template
+## Survey
 Starting from the landing page of this repo, click the green button `Use this template` then choose `Create a new respository`.
 
 Choose the Owner
