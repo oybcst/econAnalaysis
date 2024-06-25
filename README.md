@@ -19,18 +19,31 @@ This example repo uses R.  ([Using Python? Check Here.](https://github.com/OyBcS
 **NOTE**: Binder takes a very long time to spin up for the first time when using R.  It should be faster the next time, if the image is still cached.
 
 # Ecosystem Services Valuation
-
-## Survey
-Use the following for your citation.
+The value of oyster reef in the Gulf of Mexio from this project is published in *Marine Resource Economics*. Use the following reference for your citation.
 
 Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, *Marine Resource Economics*, forthcoming.
 
-Choose the Owner
-- If your project is NOAA RESTORE, please change **Owner** to **OyBcSt**.  
-- If you don't see OyBcSt as an option, [contact Lisa](mailto:lllowe@ncsu.edu) to be added as a collaborator.  
+## Survey Materials
+The survey was implemented as:
+- 
 
-Choose the Repository name
-- Choose something that indicates the *type* of project, e.g., hydro, climate, fisheries, etc.
+### Introduction Video 
+- Common to all respondents (00:01:06)
+  
+  [![Introduction](https://img.youtube.com/vi/jTF7pNGp1eA/0.jpg)](https://www.youtube.com/watch?v=jTF7pNGp1eA)
+
+### Alabama 
+- Background (00:00:36)
+
+  [![Introduction](https://img.youtube.com/vi/lHW2DuJXehs/0.jpg)](https://www.youtube.com/watch?v=lHW2DuJXehs)
+
+- Alabama: Certain High Scenario (00:01:15)
+
+  [![Introduction](https://img.youtube.com/vi/ZbcA_mN249U/0.jpg)](https://www.youtube.com/watch?v=ZbcA_mN249U&t=1s)
+
+- Alabama: Certain Low Scenario (0:01:13)
+
+  [![Introduction](https://img.youtube.com/vi/JWVBbBevjpU/0.jpg)](https://www.youtube.com/watch?v=JWVBbBevjpU)
 
 ## Modify the contents
 
