@@ -1,4 +1,4 @@
-# econAnalysis: Economic Analysis of Ecosystem Services and Natural Capital 
+# Economic Analysis of Ecosystem Services and Natural Capital 
 
 ## About the Template
 This is a template for creating a Jupyter Notebook in R, originally created for NOAA RESTORE's:
