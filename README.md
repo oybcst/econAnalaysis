@@ -38,6 +38,24 @@ The survey was implemented as:
 - [Alabama: Certain Low Scenario](https://www.youtube.com/watch?v=JWVBbBevjpU&ab_channel=GulfOysterSurvey) (0:01:13)
 
 ### Florida
+- [Background](https://www.youtube.com/watch?v=xfkwfuk3cOg&ab_channel=GulfOysterSurvey) (00:00:38)
+- [Florida: Certain High Scenario](https://www.youtube.com/watch?v=apJVAVk9Yx0&t=1s&ab_channel=GulfOysterSurvey) (00:01:23)
+- [Florida: Certain Low Scenario](https://www.youtube.com/watch?v=cD5Mqwjyh-M&ab_channel=GulfOysterSurvey) (0:01:13)
+
+### Louisiana
+- [Background](https://www.youtube.com/watch?v=3Q8h8uGinwA&ab_channel=GulfOysterSurvey) (00:00:37)
+- [Louisiana: Certain High Scenario](https://www.youtube.com/watch?v=M2-8Q1WeMj0&ab_channel=GulfOysterSurvey) (00:01:11)
+- [Louisiana: Certain Low Scenario](https://www.youtube.com/watch?v=HyZqO853qMc&ab_channel=GulfOysterSurvey) (0:01:11)
+
+### Mississippi
+- [Background](https://www.youtube.com/watch?v=5wHq55iDVws&ab_channel=GulfOysterSurvey) (00:00:38)
+- [Mississippi: Certain High Scenario](https://www.youtube.com/watch?v=BqioGlbTRdw&ab_channel=GulfOysterSurvey) (00:01:11)
+- [Mississippi: Certain Low Scenario](https://www.youtube.com/watch?v=b8NBkFOaqfc&ab_channel=GulfOysterSurvey) (0:01:11)
+
+### Texas
+- [Background](https://www.youtube.com/watch?v=3HDKUcT8WBo&ab_channel=GulfOysterSurvey) (00:01:02)
+- [Mississippi: Certain High Scenario](https://www.youtube.com/watch?v=wTwtjycwrhA&ab_channel=GulfOysterSurvey) (00:01:21)
+- [Mississippi: Certain Low Scenario](https://www.youtube.com/watch?v=JKcn2AZM5nc&t=1s&ab_channel=GulfOysterSurvey) (0:01:21)
 
 
 ## Modify the contents
