@@ -24,8 +24,10 @@ The value of oyster reef in the Gulf of Mexio from this project is published in 
 Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, *Marine Resource Economics*, forthcoming.
 
 ## Survey Materials
-The survey was implemented as:
-- 
+
+The survy was implemented as:
+- 4,690 households across the fve Gulf states (Alabama, Floria, Louisiana, Mississippi, and Texas)
+- Sep. - Oct., 2022 through Qualtrics
 
 ### Introduction Video 
 - Common to all respondents (00:01:06)
