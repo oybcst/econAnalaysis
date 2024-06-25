@@ -26,6 +26,9 @@ The survy was implemented as:
   
   *Figure 2* in Petrolia et al. (forthcoming)
 
+- All videos embeded in the survey are available form [YouTube](https://www.youtube.com/@gulfoystersurvey2611/featured).
+- Or use the link below.
+  
 ### Introduction Video 
 - Common to all respondents (00:01:06)
   
