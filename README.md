@@ -17,6 +17,8 @@ Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster 
 
 ## Survey Materials
 
+[Survey Questionnaire](https://msudafvm.co1.qualtrics.com/jfe/form/SV_etIm9YfAdjiMR3E)
+
 The survy was implemented as:
 - 4,690 households across the fve Gulf states (Alabama, Floria, Louisiana, Mississippi, and Texas)
 - Sep. - Oct., 2022 through Qualtrics
