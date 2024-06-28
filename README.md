@@ -8,7 +8,7 @@ Project Investigators
 
 Former Investigators
 - Dr. Chen, Zhenshan, Assistant Professor, Virginia Tech University
-- Mr. Enyetornye, F., Ph.D. Student, University of Illinois at Urbana-Champaign
+- Mr. Enyetornye, F., Ph.D. Student, West Virginia Univeristy
 
 # Ecosystem Services Valuation
 The value of oyster reef in the Gulf of Mexio from this project is published in *Marine Resource Economics*. Use the following reference for your citation.
