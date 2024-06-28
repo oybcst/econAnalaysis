@@ -15,6 +15,8 @@ The value of oyster reef in the Gulf of Mexio from this project is published in 
 
 Petrolia, D.R., F. Enyetornye, Z. Chen, and S.D. Yun, 2024, The Value of Oyster Reef Restoration, *Marine Resource Economics*, forthcoming.
 
+[Author's Accepted Manuscript (AAM)](https://github.com/oybcst/econAnalysis/blob/main/materials/The%20Value%20of%20Oyster%20Reef%20Restoration.pdf) (June 24, 2024)
+
 ## Survey Materials
 
 [Survey Questionnaire](https://msudafvm.co1.qualtrics.com/jfe/form/SV_etIm9YfAdjiMR3E)
